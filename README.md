@@ -76,6 +76,11 @@ you will be given **evaluation twice**, each checkpoints of **six hours** each.
 
 ## Reach Out To Us
 
+ * <a href="mailto:girlscriptbilaspur@gmail.com">Official Email</a>
+ * <a href="https://www.linkedin.com/in/girlscript-bilaspur-5957431ab/">Official LinkedIn Handle</a>
+ 
+### Reach Out To The Officials
+
 * <a href="https://github.com/Abhijit2505">Abhijit Tripathy</a>
 * <a href="https://github.com/abhishekapk">Abhishek Gupta</a>
 * <a href="https://github.com/Unknownone-af">Ajay Kumar Shukla</a>

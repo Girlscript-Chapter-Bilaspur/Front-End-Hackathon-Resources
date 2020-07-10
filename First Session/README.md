@@ -1,4 +1,4 @@
-# About The Session
+# About The Session - "Web Development Basics and HTML"
 
 This session revolves around the basics of web, ranging from what browser,server,internet are. 
 We will be giving a brief overview of how structuring of webpage is done using HTML.

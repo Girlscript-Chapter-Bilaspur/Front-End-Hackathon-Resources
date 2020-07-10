@@ -1,4 +1,4 @@
-![](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/HACKATHON_banner2.png)
+![](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/HACKATHON_banner2.png)
 
 # About The Event
 Heya Explorer 🕵️‍♀️ ! We strongly appreciate your **learning attitude** and your interest in making something awesome. Welcome to **GirlScript Bilaspur**.
@@ -72,7 +72,9 @@ you will be given **evaluation twice**, each checkpoints of **six hours** each.
 * <a href="https://github.com/deepeshgarg09">Deepesh Garg</a>
 * <a href="https://github.com/ruhiawasthi">Ruhi Awasthi</a>
 
+## Our Sponsors
 
+<img src="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/GS%20Cup%20Logo.png" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/yay%20logo1.png" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/BILASPUR%20LOGO.png" height="100px">
 
 
 

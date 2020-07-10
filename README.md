@@ -1,7 +1,9 @@
 ![](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/HACKATHON_banner2.png)
 
 # About The Event
-Heya Explorer 🕵️‍♀️ ! We strongly appreciate your **learning attitude** and your interest in making something awesome. Welcome to **GirlScript Bilaspur**.
+Heya Explorer 🕵️‍♀️ ! We strongly appreciate your **learning attitude** and your interest in making something awesome. 
+
+Welcome to **GirlScript Bilaspur** 🙏🙏
 
 We, at Girlscript Bilaspur, have planned a **Hackathon(Frontend Technologies, for beginners)** which is our first event. 
 We are conducting this Hackathon for those who have the potential to usher their imagination to reality. 

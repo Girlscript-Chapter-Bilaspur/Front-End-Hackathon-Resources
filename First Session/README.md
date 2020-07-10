@@ -265,6 +265,206 @@ The ```<ol>``` represents an ordered list of items, typically rendered as a numb
 * INSERTED TEXT ```<ins>---</ins>```
 * DELETED TEXT ```<del>---</del>```
 
+#### Some Intermediate Stuffs
+
+##### Making HTML Table Element
+
+**Example**
+
+      <table border='1'>
+            <thead>
+              <tr>
+                <td>
+                  <em><b>Name</b></em>
+                </td>
+                <td>
+                  <em><b>Place</b></em>
+                </td>
+                <td>
+                  <em><b>Mobile Number</b></em>
+                </td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  Abhijit
+                </td>
+                <td>
+                  Bilaspur
+                </td>
+                <td>
+                  1234567891484
+                </td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <td>
+                  Ruhi
+                </td>
+                <td>
+                  Bilaspur
+                </td>
+                <td>
+                  9856224744714
+                </td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <td>
+                  Abhishek
+                </td>
+                <td>
+                  Bilaspur
+                </td>
+                <td>
+                  1484548145141
+                </td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <td>
+                  Ajay
+                </td>
+                <td>
+                  Bilaspur
+                </td>
+                <td>
+                  1489464965494
+                </td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <td>
+                  Deepesh
+                </td>
+                <td>
+                  Bilaspur
+                </td>
+                <td>
+                  5545415845454
+                </td>
+              </tr>
+            </tbody>
+          </table>
+
+
+<table border='1'>
+      <thead>
+        <tr>
+          <td>
+            <em><b>Name</b></em>
+          </td>
+          <td>
+            <em><b>Place</b></em>
+          </td>
+          <td>
+            <em><b>Mobile Number</b></em>
+          </td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            Abhijit
+          </td>
+          <td>
+            Bilaspur
+          </td>
+          <td>
+            1234567891484
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>
+            Ruhi
+          </td>
+          <td>
+            Bilaspur
+          </td>
+          <td>
+            9856224744714
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>
+            Abhishek
+          </td>
+          <td>
+            Bilaspur
+          </td>
+          <td>
+            1484548145141
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>
+            Ajay
+          </td>
+          <td>
+            Bilaspur
+          </td>
+          <td>
+            1489464965494
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>
+            Deepesh
+          </td>
+          <td>
+            Bilaspur
+          </td>
+          <td>
+            5545415845454
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+**Explanation Of Tags**
+
+* ```<table></table>``` - The ```<table>``` represents tabular data — that is, information presented in a two-dimensional 
+table comprised of rows and columns of cells containing data.
+* ```<thead></thead>``` - The <thead> defines a set of rows defining the head of the columns of the table.
+* ```<tbody></tbody>``` - The HTML Table Body element (<tbody>) encapsulates a set of table row (<tr> elements), 
+indicating that they comprise the body of the table (<table>).
+* ```<tr></tr>``` - The ```<tr>``` defines a row of cells in a table. The row's cells can then be established using a mix of ```<td>``` (data cell) and ```<th>``` (header cell) elements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

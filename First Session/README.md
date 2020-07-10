@@ -1,4 +1,4 @@
-# About The Session
+# About The Session - "Web Development Basics and HTML"
 
 This session revolves around the basics of web, ranging from what browser,server,internet are. 
 We will be giving a brief overview of how structuring of webpage is done using HTML.
@@ -10,8 +10,8 @@ This is the **Cheat Sheet** opened for everyone to use during the hackathon. The
 ## Content
 * [How Does The Internet Work](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#how-does-the-internet-work-)
 * [What is HTML](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#what-is-html-)
-* [Tags and Elements Cheatsheet](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#tags-and-elements-cheatsheet)
-
+* <details><summary><a href="https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#tags-and-elements-cheatsheet">Tags and Elements Cheatsheet</a></summary>
+   
     * [comments](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#comments)
     * [html](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#html)
     * [head](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#head)
@@ -22,7 +22,14 @@ This is the **Cheat Sheet** opened for everyone to use during the hackathon. The
     * [anchor](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#anchor)
     * [img](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#img)
     * [list](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#list)
-    * [Text Formatting](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#text-formatting)
+    * [Text Formatting](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#text-formatting)</details> 
+    
+   * <details><summary><a href="https://github.com/Abhijit2505/Front-End-Hackathon-Resources/tree/master/First%20Session#some-intermediate-stuffs">Some Intermediate Stuffs</a></summary>
+   
+   
+      * [Making HTML Table Element](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/tree/master/First%20Session#making-html-table-element)</details>
+
+
 
 ### How Does The Internet Work ?
 
@@ -264,6 +271,206 @@ The ```<ol>``` represents an ordered list of items, typically rendered as a numb
 * SUPERSCRIPTED TEXT ```<sup>---</sup>```
 * INSERTED TEXT ```<ins>---</ins>```
 * DELETED TEXT ```<del>---</del>```
+
+#### Some Intermediate Stuffs
+
+##### Making HTML Table Element
+
+**Example**
+
+      <table border='1'>
+            <thead>
+              <tr>
+                <td>
+                  <em><b>Name</b></em>
+                </td>
+                <td>
+                  <em><b>Place</b></em>
+                </td>
+                <td>
+                  <em><b>Mobile Number</b></em>
+                </td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  Abhijit
+                </td>
+                <td>
+                  Bilaspur
+                </td>
+                <td>
+                  1234567891484
+                </td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <td>
+                  Ruhi
+                </td>
+                <td>
+                  Bilaspur
+                </td>
+                <td>
+                  9856224744714
+                </td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <td>
+                  Abhishek
+                </td>
+                <td>
+                  Bilaspur
+                </td>
+                <td>
+                  1484548145141
+                </td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <td>
+                  Ajay
+                </td>
+                <td>
+                  Bilaspur
+                </td>
+                <td>
+                  1489464965494
+                </td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr>
+                <td>
+                  Deepesh
+                </td>
+                <td>
+                  Bilaspur
+                </td>
+                <td>
+                  5545415845454
+                </td>
+              </tr>
+            </tbody>
+          </table>
+
+
+<table border='1'>
+      <thead>
+        <tr>
+          <td>
+            <em><b>Name</b></em>
+          </td>
+          <td>
+            <em><b>Place</b></em>
+          </td>
+          <td>
+            <em><b>Mobile Number</b></em>
+          </td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            Abhijit
+          </td>
+          <td>
+            Bilaspur
+          </td>
+          <td>
+            1234567891484
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>
+            Ruhi
+          </td>
+          <td>
+            Bilaspur
+          </td>
+          <td>
+            9856224744714
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>
+            Abhishek
+          </td>
+          <td>
+            Bilaspur
+          </td>
+          <td>
+            1484548145141
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>
+            Ajay
+          </td>
+          <td>
+            Bilaspur
+          </td>
+          <td>
+            1489464965494
+          </td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>
+            Deepesh
+          </td>
+          <td>
+            Bilaspur
+          </td>
+          <td>
+            5545415845454
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+**Explanation Of Tags**
+
+* ```<table></table>``` - The ```<table>``` represents tabular data — that is, information presented in a two-dimensional 
+table comprised of rows and columns of cells containing data.
+* ```<thead></thead>``` - The <thead> defines a set of rows defining the head of the columns of the table.
+* ```<tbody></tbody>``` - The HTML Table Body element (<tbody>) encapsulates a set of table row (<tr> elements), 
+indicating that they comprise the body of the table (<table>).
+* ```<tr></tr>``` - The ```<tr>``` defines a row of cells in a table. The row's cells can then be established using a mix of ```<td>``` (data cell) and ```<th>``` (header cell) elements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

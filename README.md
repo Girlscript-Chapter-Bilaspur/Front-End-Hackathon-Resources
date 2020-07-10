@@ -1,10 +1,18 @@
 ![](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/HACKATHON_banner2.png)
 
-# About The Event
+
 Heya Explorer 🕵️‍♀️ ! We strongly appreciate your **learning attitude** and your interest in making something awesome. 
 
 Welcome to **GirlScript Bilaspur** 🙏🙏
 
+# Content
+* [About The Event](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources#about-the-event)
+* [Code Of Conduct](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources#code-of-conduct)
+* [Rules For Hackathon](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources#rules-for-hackathon)
+* [Reach Out To Us](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources#reach-out-to-us)
+* [Our Sponsors](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources#our-sponsors)
+
+# About The Event
 We, at Girlscript Bilaspur, have planned a **Hackathon(Frontend Technologies, for beginners)** which is our first event. 
 We are conducting this Hackathon for those who have the potential to usher their imagination to reality. 
 This Hackathon is going to be out of the ordinary, even beginners can join to engage themselves in something productive. 
@@ -56,7 +64,7 @@ you will be given **evaluation twice**, each checkpoints of **six hours** each.
 * After making the first pull request as per the problem statement, you will be eligible for **Hackathon Participation Certificates**.
 * After the end of 48 hours, we will be adding up all the marks and choosing the winners.
 
-### Evaluation Scheme
+#### Evaluation Scheme
 
 (Total - 100 points(20+20+20+20 - Four sessions each 12 hours))  
 

@@ -460,10 +460,36 @@ indicating that they comprise the body of the table (<table>).
 * ```<tr></tr>``` - The ```<tr>``` defines a row of cells in a table. The row's cells can then be established using a mix of ```<td>``` (data cell) and ```<th>``` (header cell) elements.
 
 
+##### HTML form element
+
+      <form action="" method="get" class="form-example">
+        <div class="form-example">
+          <label for="name">Enter your name: </label>
+          <input type="text" name="name" id="name" required>
+        </div>
+        <div class="form-example">
+          <label for="email">Enter your email: </label>
+          <input type="email" name="email" id="email" required>
+        </div>
+        <div class="form-example">
+          <input type="submit" value="Follow Me">
+        </div>
 
 
+**Explanation Of Tags**
 
-
+* **action** - The URI of a program that processes the form information. This value can be overridden by a formaction attribute on a ```<button>``` or ```<input>``` element.
+* **name** - The name of the form
+* **target** - A name or keyword indicating where to display the response that is received after submitting the form. In HTML 4, this is the name/keyword for a frame. In HTML5, it is a name/keyword for a browsing context (for example, tab, window, or inline frame). The following keywords have special meanings:
+   * **_self**: Load the response into the same HTML 4 frame (or HTML5 browsing context) as the current one. This value is the default if the attribute is not specified.
+   * **_blank**: Load the response into a new unnamed HTML 4 window or HTML5 browsing context.
+   * **_parent**: Load the response into the HTML 4 frameset parent of the current frame, or HTML5 parent browsing context of the current one. If there is no parent, this option behaves the same way as ```_self```.
+   * **_top**: HTML 4: Load the response into the full original window, and cancel all other frames. HTML5: Load the response into the top-level browsing context (i.e., the browsing context that is an ancestor of the current one, and has no parent). If there is no parent, this option behaves the same way as ```_self```.
+   * **iframename**: The response is displayed in a named ```<iframe>```.
+* **method** - The HTTP method that the browser uses to submit the form. Possible values are:
+   * **post**: Corresponds to the HTTP POST method ; form data are included in the body of the form and sent to the server.
+   * **get**: Corresponds to the HTTP GET method; form data are appended to the action attribute URI with a ```?``` as separator, and the resulting URI is sent to the server. Use this method when the form has no side-effects and contains only ASCII characters.
+This value can be overridden by a formmethod attribute on a ```<button>``` or ```<input>``` element.
 
 
 

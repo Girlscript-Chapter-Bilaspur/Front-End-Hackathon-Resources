@@ -1,4 +1,5 @@
 # About The Session - "Web Development Basics and HTML"
+<img src="https://img.shields.io/badge/HTML-Code-orange"> <img src="https://img.shields.io/badge/HTML-Documentation-brightgreen"> <img src="https://img.shields.io/badge/License-MIT-red">
 
 This session revolves around the basics of web, ranging from what browser,server,internet are. 
 We will be giving a brief overview of how structuring of webpage is done using HTML.
@@ -459,7 +460,6 @@ table comprised of rows and columns of cells containing data.
 indicating that they comprise the body of the table (<table>).
 * ```<tr></tr>``` - The ```<tr>``` defines a row of cells in a table. The row's cells can then be established using a mix of ```<td>``` (data cell) and ```<th>``` (header cell) elements.
 
-
 ##### HTML form element
 
       <form action="" method="get" class="form-example">
@@ -492,6 +492,17 @@ indicating that they comprise the body of the table (<table>).
 This value can be overridden by a formmethod attribute on a ```<button>``` or ```<input>``` element.
 
 
+#### References
+
+* [DevDocs](https://devdocs.io/)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [W3 Schools](https://www.w3schools.com/)
+
+#### Contributors
+
+* [Shalu Kumari](https://www.linkedin.com/in/shalu-kumari-42ab8019b/)
+* [Prashashti Pankaj](https://www.linkedin.com/in/prashasti-pankaj-8875a8171/)
+* [Abhijit Tripathy](https://www.linkedin.com/in/abhijit-tripathy-415912187/)
 
 
 

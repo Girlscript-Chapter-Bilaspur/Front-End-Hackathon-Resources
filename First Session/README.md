@@ -1,4 +1,5 @@
 # About The Session - "Web Development Basics and HTML"
+<img src="https://img.shields.io/badge/HTML-Code-orange"> <img src="https://img.shields.io/badge/HTML-Documentation-brightgreen"> <img src="https://img.shields.io/badge/License-MIT-red">
 
 This session revolves around the basics of web, ranging from what browser,server,internet are. 
 We will be giving a brief overview of how structuring of webpage is done using HTML.
@@ -10,8 +11,8 @@ This is the **Cheat Sheet** opened for everyone to use during the hackathon. The
 ## Softwares And Installations
 
 You can install any of these Editors,
-* [Sublime Text](https://www.sublimetext.com/)
-* [Atom](https://atom.io/) [Preferable, will be using in the session]
+* [Sublime Text](https://www.sublimetext.com/) <img src="https://img.shields.io/badge/Editor-Sublime-yellow">
+* [Atom](https://atom.io/) [Preferable, will be using in the session] <img src = https://img.shields.io/badge/Editor-Atom-green>
 * NotePad - May Be present in your system already
 * One [GitHub](https://github.com/) account
 * Any of the browsers - Like Chrome, Safari,Opera etc.
@@ -459,13 +460,49 @@ table comprised of rows and columns of cells containing data.
 indicating that they comprise the body of the table (<table>).
 * ```<tr></tr>``` - The ```<tr>``` defines a row of cells in a table. The row's cells can then be established using a mix of ```<td>``` (data cell) and ```<th>``` (header cell) elements.
 
+##### HTML form element
+
+      <form action="" method="get" class="form-example">
+        <div class="form-example">
+          <label for="name">Enter your name: </label>
+          <input type="text" name="name" id="name" required>
+        </div>
+        <div class="form-example">
+          <label for="email">Enter your email: </label>
+          <input type="email" name="email" id="email" required>
+        </div>
+        <div class="form-example">
+          <input type="submit" value="Follow Me">
+        </div>
 
 
+**Explanation Of Tags**
+
+* **action** - The URI of a program that processes the form information. This value can be overridden by a formaction attribute on a ```<button>``` or ```<input>``` element.
+* **name** - The name of the form
+* **target** - A name or keyword indicating where to display the response that is received after submitting the form. In HTML 4, this is the name/keyword for a frame. In HTML5, it is a name/keyword for a browsing context (for example, tab, window, or inline frame). The following keywords have special meanings:
+   * **_self**: Load the response into the same HTML 4 frame (or HTML5 browsing context) as the current one. This value is the default if the attribute is not specified.
+   * **_blank**: Load the response into a new unnamed HTML 4 window or HTML5 browsing context.
+   * **_parent**: Load the response into the HTML 4 frameset parent of the current frame, or HTML5 parent browsing context of the current one. If there is no parent, this option behaves the same way as ```_self```.
+   * **_top**: HTML 4: Load the response into the full original window, and cancel all other frames. HTML5: Load the response into the top-level browsing context (i.e., the browsing context that is an ancestor of the current one, and has no parent). If there is no parent, this option behaves the same way as ```_self```.
+   * **iframename**: The response is displayed in a named ```<iframe>```.
+* **method** - The HTTP method that the browser uses to submit the form. Possible values are:
+   * **post**: Corresponds to the HTTP POST method ; form data are included in the body of the form and sent to the server.
+   * **get**: Corresponds to the HTTP GET method; form data are appended to the action attribute URI with a ```?``` as separator, and the resulting URI is sent to the server. Use this method when the form has no side-effects and contains only ASCII characters.
+This value can be overridden by a formmethod attribute on a ```<button>``` or ```<input>``` element.
 
 
+#### References
 
+* [DevDocs](https://devdocs.io/)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [W3 Schools](https://www.w3schools.com/)
 
+#### Contributors 
 
+* [Shalu Kumari](https://www.linkedin.com/in/shalu-kumari-42ab8019b/)
+* [Prashashti Pankaj](https://www.linkedin.com/in/prashasti-pankaj-8875a8171/)
+* [Abhijit Tripathy](https://www.linkedin.com/in/abhijit-tripathy-415912187/) <a href="https://github.com/Abhijit2505"><img src = "https://img.shields.io/badge/Follow-4183C4?logo=github&style=social"></a>
 
 
 

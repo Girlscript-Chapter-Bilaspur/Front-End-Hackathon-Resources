@@ -19,9 +19,6 @@ This Hackathon is going to be out of the ordinary, even beginners can join to en
 We will be using GITHUB repository as a hackathon conducting platform, where a participant has to maintain a private directory and make a 
 Pull Request(PR) to the master repository. The PR will have a basic template which will be provided on the fifth day of the Hackathon in the second session.
 
-> 🎖 **Certificate of Particiaption**  for the workshop will be awarded to everyone who are going to complete the tasks given in the workshop. 
-🥇 **Certificate of Appreciation**  will be awarded to them who will attend atleast six sessions and merge one PR. Winners will get 
-**Winner Certificate** as well as **Goodies** from Girlscript Founcation.
 
 Have a visit to our website here to know about the schdule of the sessions. Schedule is given in IST(Indian Standard Time), All the international participants are hereby notified.
 

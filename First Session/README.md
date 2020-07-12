@@ -11,8 +11,8 @@ This is the **Cheat Sheet** opened for everyone to use during the hackathon. The
 ## Softwares And Installations
 
 You can install any of these Editors,
-* [Sublime Text](https://www.sublimetext.com/)
-* [Atom](https://atom.io/) [Preferable, will be using in the session]
+* [Sublime Text](https://www.sublimetext.com/) <img src="https://img.shields.io/badge/Editor-Sublime-yellow">
+* [Atom](https://atom.io/) [Preferable, will be using in the session] <img src = https://img.shields.io/badge/Editor-Atom-green>
 * NotePad - May Be present in your system already
 * One [GitHub](https://github.com/) account
 * Any of the browsers - Like Chrome, Safari,Opera etc.
@@ -498,11 +498,11 @@ This value can be overridden by a formmethod attribute on a ```<button>``` or ``
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [W3 Schools](https://www.w3schools.com/)
 
-#### Contributors
+#### Contributors 
 
 * [Shalu Kumari](https://www.linkedin.com/in/shalu-kumari-42ab8019b/)
 * [Prashashti Pankaj](https://www.linkedin.com/in/prashasti-pankaj-8875a8171/)
-* [Abhijit Tripathy](https://www.linkedin.com/in/abhijit-tripathy-415912187/)
+* [Abhijit Tripathy](https://www.linkedin.com/in/abhijit-tripathy-415912187/) <a href="https://github.com/Abhijit2505"><img src = "https://img.shields.io/badge/Follow-4183C4?logo=github&style=social"></a>
 
 
 

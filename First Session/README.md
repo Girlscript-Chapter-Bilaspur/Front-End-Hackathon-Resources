@@ -494,6 +494,7 @@ indicating that they comprise the body of the table (<table>).
    * **get**: Corresponds to the HTTP GET method; form data are appended to the action attribute URI with a ```?``` as separator, and the resulting URI is sent to the server. Use this method when the form has no side-effects and contains only ASCII characters.
 This value can be overridden by a formmethod attribute on a ```<button>``` or ```<input>``` element.
 
+For more details on HTML forms, please visit - [HTML Design Forms](https://www.geeksforgeeks.org/html-design-form/)
 
 #### References
 

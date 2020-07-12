@@ -7,6 +7,15 @@ We will be giving a brief overview of how structuring of webpage is done using H
 
 This is the **Cheat Sheet** opened for everyone to use during the hackathon. There are resources and tools embeded inside which you can use as a participant.
 
+## Softwares And Installations
+
+You can install any of these Editors,
+* [Sublime Text](https://www.sublimetext.com/)
+* [Atom](https://atom.io/) [Preferable, will be using in the session]
+* NotePad - May Be present in your system already
+* One [GitHub](https://github.com/) account
+* Any of the browsers - Like Chrome, Safari,Opera etc.
+
 ## Content
 * [How Does The Internet Work](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#how-does-the-internet-work-)
 * [What is HTML](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#what-is-html-)

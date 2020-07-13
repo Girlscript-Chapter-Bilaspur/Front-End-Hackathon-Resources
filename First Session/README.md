@@ -18,6 +18,9 @@ You can install any of these Editors,
 * Any of the browsers - Like Chrome, Safari,Opera etc.
 
 ## Content
+
+You can find the slides here - <a href = "https://www.canva.com/design/DAEBAah68is/share/preview?token=d58aB02L1p3sE-Aidi1LBQ&role=EDITOR&utm_content=DAEBAah68is&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Slides</a>
+
 * [How Does The Internet Work](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#how-does-the-internet-work-)
 * [What is HTML](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#what-is-html-)
 * <details><summary><a href="https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#tags-and-elements-cheatsheet">Tags and Elements Cheatsheet</a></summary>
@@ -491,6 +494,7 @@ indicating that they comprise the body of the table (<table>).
    * **get**: Corresponds to the HTTP GET method; form data are appended to the action attribute URI with a ```?``` as separator, and the resulting URI is sent to the server. Use this method when the form has no side-effects and contains only ASCII characters.
 This value can be overridden by a formmethod attribute on a ```<button>``` or ```<input>``` element.
 
+For more details on HTML forms, please visit - [HTML Design Forms](https://www.geeksforgeeks.org/html-design-form/)
 
 #### References
 

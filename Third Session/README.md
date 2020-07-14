@@ -51,16 +51,20 @@ You can find it here, visit - https://getbootstrap.com/docs/4.5/getting-started/
 
 **OR**
 
-```<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">```
+```html
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+```
 
 You have Copy-paste the stylesheet ```<link>``` into your ```<head>``` before all other stylesheets to load our CSS.
 
 
 Many of our components require the use of JavaScript to function. Specifically, they require jQuery, Popper.js, and our own JavaScript plugins.
 
-```<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>```
-```<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>```
-```<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>```
+```html
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+```
 
 Copy and paste the following ```<script>```s near the end of your pages, right before the closing ```</body>``` tag, to enable them. jQuery must come first, then Popper.js, and then our JavaScript plugins.
 
@@ -73,7 +77,7 @@ Once you download the file, you can include bootstrap.min.css file in the ```<he
 
 ### Bootstrap Starter Template
 
-```
+```html
 <!doctype html>
 <html lang="en">
   <head>
@@ -103,7 +107,7 @@ Once you download the file, you can include bootstrap.min.css file in the ```<he
 For Button Documentation, Visit - https://getbootstrap.com/docs/4.5/components/buttons/
 
 Example - 
-```
+```html
 <button type="button" class="btn btn-primary">Primary</button>
 <button type="button" class="btn btn-secondary">Secondary</button>
 <button type="button" class="btn btn-success">Success</button>
@@ -125,7 +129,7 @@ A lightweight, flexible component that can optionally extend the entire viewport
 For Button Documentation, Visit - https://getbootstrap.com/docs/4.5/components/jumbotron/
 
 ![](https://github.com/abhishekapk/Front-End-Hackathon-Resources/blob/master/Third%20Session/Assests/jumpo.JPG)
-```
+```html
 <div class="jumbotron">
   <h1 class="display-4">Hello, world!</h1>
   <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
@@ -150,7 +154,7 @@ Here’s what you need to know before getting started with the navbar:
 
 ![](https://github.com/abhishekapk/Front-End-Hackathon-Resources/blob/master/Third%20Session/Assests/navbar.JPG)
 
-```
+```html
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -204,7 +208,7 @@ See how aspects of the Bootstrap grid system work across multiple devices with a
 
 Example - 
 
-```
+```html
 <div class="container">
   <div class="row">
     <div class="col">
@@ -229,7 +233,7 @@ Example -
 ```
 ![](https://github.com/abhishekapk/Front-End-Hackathon-Resources/blob/master/Third%20Session/Assests/column.JPG)
 
-```
+```html
 <div class="container">
   <div class="row">
     <div class="col">col</div>

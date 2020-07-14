@@ -1,8 +1,10 @@
-# About The Session - "Web Development Basics and HTML"
-<img src="https://img.shields.io/badge/HTML-Code-orange"> <img src="https://img.shields.io/badge/HTML-Documentation-brightgreen"> <img src="https://img.shields.io/badge/License-MIT-red">
+# About The Session - "Bootstrap Framework"
+<img src="https://img.shields.io/badge/Bootstrap-Code-orange"> <img src="https://img.shields.io/badge/Bootstrap-Documentation-brightgreen"> <img src="https://img.shields.io/badge/License-MIT-red">
 
-This session revolves around the basics of web, ranging from what browser,server,internet are. 
-We will be giving a brief overview of how structuring of webpage is done using HTML.
+This session revolves around the basics of framework, tools and layout, bootstrap - (Intro, History, Why we use Bootstrap, Advantages & Disadvantages, Components, Grid System, Navbar, Portfolio page).
+We will be giving a brief overview of how structuring of webpage is done using Bootstrap.
+
+For Official Documentation, Visit - https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
 ## About the Documentation
 
@@ -19,509 +21,241 @@ You can install any of these Editors,
 
 ## Content
 
-You can find the slides here - <a href = "https://www.canva.com/design/DAEBAah68is/share/preview?token=d58aB02L1p3sE-Aidi1LBQ&role=EDITOR&utm_content=DAEBAah68is&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Slides</a>
+You can find the slides here - <a href = "https://www.canva.com/design/DAEB5rW7RFg/IKKunaSpzpFh_4liAbIh8w/view?utm_content=DAEB5rW7RFg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Slides (Click Here For Presentation Slides !</a>
 
-* [How Does The Internet Work](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#how-does-the-internet-work-)
-* [What is HTML](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#what-is-html-)
-* <details><summary><a href="https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#tags-and-elements-cheatsheet">Tags and Elements Cheatsheet</a></summary>
-   
-    * [comments](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#comments)
-    * [html](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#html)
-    * [head](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#head)
-    * [body](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#body)
-    * [heading](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#heading)
-    * [paragraph](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#paragraph)
-    * [br](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#br)
-    * [anchor](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#anchor)
-    * [img](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#img)
-    * [list](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#list)
-    * [Text Formatting](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#text-formatting)</details> 
-    
-   * <details><summary><a href="https://github.com/Abhijit2505/Front-End-Hackathon-Resources/tree/master/First%20Session#some-intermediate-stuffs">Some Intermediate Stuffs</a></summary>
-   
-   
-      * [Making HTML Table Element](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#making-html-table-element)</details>
+### Presentation Slides Contain these topics - 
 
+* Front - End Framework
+* Tools and layout
+* Bootstrap Intro & History
+* Boostrap Package
+* Responsive Design
+* Advantages and Disadvatages
+* Bootstrap Loading
+* Common Bootstap Components
+* Grid System
 
 
-### How Does The Internet Work ?
+### Bootstrap - 
 
-The Internet is made up of a massive network of specialized computers called routers. Each router’s job is to know how to move packets along from 
-their source to their destination. A packet will have moved through multiple routers during its journey.
+* Bootstrap is a free front-end framework for faster and easier web development.
+* Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.
+* Bootstrap also gives you the ability to easily create responsive designs.
 
-Along with the session slides, here is an addition from [Medium](https://medium.com/), Have a visit to the link - [How Does The Internet Work?](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=The%20Internet%20is%20made%20up,next%2C%20it's%20called%20a%20hop.)
-to get an entire overview of how the internet works.
+### How to include boostrap file in HTML ?
 
-### What is HTML ?
+#### 1. Using Bootstrap CDN
 
-* **HTML** stands for **Hypertext Markup Language**. It allows the user to create and structure sections, paragraphs, headings, links, and blockquotes 
-for web pages and applications.
+If you don't want to download and host Bootstrap 4 yourself, you can include it from a CDN (Content Delivery Network).
+You can find it here, visit - https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
-* HTML is not a programming language, meaning it doesn’t have the ability to create dynamic functionality. Instead, it makes it possible to organize 
-and format documents, similarly to Microsoft Word. That's why it is known as **Mark Up Language**.
-* HTML documents are files that end with a **.html** or **.htm** extension. You can view then using any **web browser** (such as Google Chrome, Safari, or Mozilla Firefox). 
-The browser reads the HTML file and renders its content so that internet users can view it.
-* Usually, the average website includes several different **HTML pages**. For instance: home pages, about pages, contact pages would all have separate HTML documents.
-* Each HTML page consists of a set of **tags** (also called elements), which you can refer to as the building blocks of web pages. 
-They create a hierarchy that structures the content into sections, paragraphs, headings, and other content blocks.
+**OR**
 
-* Most HTML elements have an opening and a closing that use the ```<tag></tag>``` syntax.
+```<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">```
 
-### Tags and Elements CheatSheet
+You have Copy-paste the stylesheet ```<link>``` into your ```<head>``` before all other stylesheets to load our CSS.
 
-#### comments
 
-```<!--comments--->``` is used to add comments.
+Many of our components require the use of JavaScript to function. Specifically, they require jQuery, Popper.js, and our own JavaScript plugins.
 
-#### html
+```<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>```
+```<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>```
+```<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>```
 
-The ```<html></html>``` represents the root (top-level element) of an HTML document, so it is also referred to as the root element. 
-All other elements must be descendants of this element.
+Copy and paste the following ```<script>```s near the end of your pages, right before the closing ```</body>``` tag, to enable them. jQuery must come first, then Popper.js, and then our JavaScript plugins.
 
-**Example**
 
-    <!DOCTYPE html>
-    <html lang="en">
-      <head>...</head>
-      <body>...</body>
-    </html>
-    
-Providing a **lang** attribute with a valid IETF identifying language tag on the html element will help 
-screen reading technology determine the proper language to announce. The identifying language tag should describe 
-the language used by the majority of the content of the page. Without it, screen readers will
-typically default to the operating system's set language, which may cause mispronunciations.
+#### 2. Downloading the files locally
 
-Including a valid **lang** declaration on the html element also ensures that important metadata contained in the page's 
-```<head>```, such as the page's ```<title>```, are also announced properly.
+Instead of using cdn, you can download the files locally to your project folder from https://github.com/twbs/bootstrap/releases/download/v4.5.0/bootstrap-4.5.0-dist.zip
 
-#### head
+Once you download the file, you can include bootstrap.min.css file in the ```<head>``` and bootstrap.min.js in ```<body>```. Even if you are using the downloaded bootstrap file, you have to include jquery.min.js and popper.min.js before loading bootstrap.min.js
 
-The ```<head>``` provides general information (metadata) about the document, including its title and links to its scripts and style sheets.
+### Bootstrap Starter Template
 
-**Example**
+```
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <html>
-      <head>
-        <title>Document title</title>
-      </head>
-    </html>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
-The HTML Title element ```<title>``` defines the document's title that is shown in a browser's title bar or a page's tab. 
-It only contains text and tags within the element are ignored.
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
 
-#### body
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  </body>
+</html>
+```
 
-The ```<body>``` represents the content of an HTML document. There can be only one ```<body>``` element in a document.
+### How to add buttons in HTML file with the help of Bootstrap?
 
-**Example**
+For Button Documentation, Visit - https://getbootstrap.com/docs/4.5/components/buttons/
 
-    <html>
-      <head>
-        <title>Document title</title>
-      </head>
-      <body>
-        <p>This is a paragraph</p>
-      </body>
-    </html>
+Example - 
+```
+<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-light">Light</button>
+<button type="button" class="btn btn-dark">Dark</button>
 
-#### heading
+<button type="button" class="btn btn-link">Link</button>
+```
+![](https://github.com/abhishekapk/Front-End-Hackathon-Resources/blob/master/Third%20Session/Assests/buttons.JPG)
 
-This one is used to create headings with six different tags ranging from **h1** to **h6**, Have a look at the example below,
 
-**Example**
+### How to add Jumpotrons in HTML file with the help of Bootstrap?
 
-    <h1>Heading level 1</h1>
-    <h2>Heading level 2</h2>
-    <h3>Heading level 3</h3>
-    <h4>Heading level 4</h4>
-    <h5>Heading level 5</h5>
-    <h6>Heading level 6</h6>
+A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.
 
-<h1>Heading level 1</h1>
-<h2>Heading level 2</h2>
-<h3>Heading level 3</h3>
-<h4>Heading level 4</h4>
-<h5>Heading level 5</h5>
-<h6>Heading level 6</h6>
-
-#### paragraph
-
-The ```<p>``` represents a paragraph. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank
-lines and/or first-line indentation, but HTML paragraphs can be any structural grouping of related content, such as images or form fields.
-
-**Example**
-
-    <p>This is the first paragraph of text.
-      This is the first paragraph of text.
-      This is the first paragraph of text.
-      This is the first paragraph of text.</p>
-    <p>This is the second paragraph.
-      This is the second paragraph.
-      This is the second paragraph.
-      This is the second paragraph.</p>
-
-#### br
-
-The ```<br>``` produces a line break in text (carriage-return). It is useful for writing a poem or an address, where the division of lines is significant.
-
-**Example**
-
-    GirlScript Bilaspur<br>
-    Bilaspur,Chhattisgarh<br>
-    123456<br>
-    India<br>
-
-GirlScript Bilaspur<br>
-Bilaspur,Chhattisgarh<br>
-123456<br>
-India<br>
-
-#### anchor
-
-The ```<a>``` (or anchor element) creates a hyperlink to other web pages, files, locations within the same page, email addresses, or any other URL.
-
-**Example**
-
-    <a href="https://girlscript-chapter-bilaspur.github.io/Forntend-Hackathon/">
-    External Link
-    </a>   
-
-<a href="https://girlscript-chapter-bilaspur.github.io/Forntend-Hackathon/">
-External Link
-</a>   
-
-##### Common Attributes - 
-##### href
-Contains a URL or a URL fragment that the hyperlink points to.
-A URL fragment is a name preceded by a hash mark (#), which specifies an internal target location (an ID of an HTML element) within the current document. URLs are not restricted to Web (HTTP)-based documents, but can use any protocol supported by the browser. For example, file:, ftp:, and mailto: work in most browsers.
-You can use href="#top" or the empty fragment href="#" to link to the top of the current page. This behavior is specified by HTML5.
-
-##### rel
-Specifies the relationship of the target object to the link object. The value is a space-separated list of link types.
-
-##### target
-Specifies where to display the linked URL. It is a name of, or keyword for, a browsing context: a tab, window, or <iframe>. The following keywords have special meanings:
-* **_self**: Load the URL into the same browsing context as the current one. This is the default behavior.
-* **_blank**: Load the URL into a new browsing context. This is usually a tab, but users can configure browsers to use new windows instead.
-* **_parent**: Load the URL into the parent browsing context of the current one. If there is no parent, this behaves the same way as _self.
-* **_top**: Load the URL into the top-level browsing context (that is, the "highest" browsing context that is an ancestor of the current one, and has no parent). If there is no parent, this behaves the same way as _self.
-
-#### img
-
-The ```<img>``` embeds an image into the document. It is a replaced element.
-
-**Example**
-
-    <img src="book_photo.png" alt="A Book Photo">
-
-##### Common Attributes - 
-
-#### alt
-This attribute defines an alternative text description of the image.
-Note: Browsers do not always display the image referenced by the element. This is the case for non-graphical browsers 
-(including those used by people with visual impairments), if the user chooses not to display images, or if the browser 
-cannot display the image because it is invalid or an unsupported type. In these cases, the browser may replace the image 
-with the text defined in this element's alt attribute. You should, for these reasons and others, provide a useful value for 
-alt whenever possible.
-
-#### height
-The intrinsic height of the image in pixels.
-
-#### src
-The image URL. This attribute is mandatory for the <img> element. On browsers supporting srcset,
-src is treated like a candidate image with a pixel density descriptor 1x unless an image with this 
-pixel density descriptor is already defined in srcset, or unless srcset contains 'w' descriptors.
-
-#### width
-The intrinsic width of the image in pixels.
-
-#### list
-
-```<li></li>``` is used to create items in a list.
-
-##### unorderd list
-The ```<ul>``` represents an unordered list of items, typically rendered as a bulleted list.
-
-**Example**
-
-      <ul>
-        <li>first item</li>
-        <li>second item</li>
-        <li>third item</li>
-      </ul>
-
-<ul>
-        <li>first item</li>
-        <li>second item</li>
-        <li>third item</li>
-      </ul>
-
-##### ordered list
-The ```<ol>``` represents an ordered list of items, typically rendered as a numbered list.
-
-**Example**
-
-    <ol>
-      <li>first item</li>
-      <li>second item</li>
-      <li>third item</li>
-    </ol>
-
-<ol>
-  <li>first item</li>
-  <li>second item</li>
-  <li>third item</li>
-</ol>
-
-#### Text Formatting
-
-* BOLD TEXT ```<b>---</b>```
-* BIG TEXT ```<big>---</big>```
-* ITALIC TEXT ```<i>---</i>```
-* SMALL TEXT ```<small>---</small>```
-* STRONG TEXT ```<strong>---</strong>```
-* SUBSCRIPTED TEXT ```<sub>---</sub>```
-* SUPERSCRIPTED TEXT ```<sup>---</sup>```
-* INSERTED TEXT ```<ins>---</ins>```
-* DELETED TEXT ```<del>---</del>```
-
-#### Some Intermediate Stuffs
-
-##### Making HTML Table Element
-
-**Example**
-
-      <table border='1'>
-            <thead>
-              <tr>
-                <td>
-                  <em><b>Name</b></em>
-                </td>
-                <td>
-                  <em><b>Place</b></em>
-                </td>
-                <td>
-                  <em><b>Mobile Number</b></em>
-                </td>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>
-                  Abhijit
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  1234567891484
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Ruhi
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  9856224744714
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Abhishek
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  1484548145141
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Ajay
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  1489464965494
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Deepesh
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  5545415845454
-                </td>
-              </tr>
-            </tbody>
-          </table>
-
-
-<table border='1'>
-      <thead>
-        <tr>
-          <td>
-            <em><b>Name</b></em>
-          </td>
-          <td>
-            <em><b>Place</b></em>
-          </td>
-          <td>
-            <em><b>Mobile Number</b></em>
-          </td>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>
-            Abhijit
-          </td>
-          <td>
-            Bilaspur
-          </td>
-          <td>
-            1234567891484
-          </td>
-        </tr>
-      </tbody>
-      <tbody>
-        <tr>
-          <td>
-            Ruhi
-          </td>
-          <td>
-            Bilaspur
-          </td>
-          <td>
-            9856224744714
-          </td>
-        </tr>
-      </tbody>
-      <tbody>
-        <tr>
-          <td>
-            Abhishek
-          </td>
-          <td>
-            Bilaspur
-          </td>
-          <td>
-            1484548145141
-          </td>
-        </tr>
-      </tbody>
-      <tbody>
-        <tr>
-          <td>
-            Ajay
-          </td>
-          <td>
-            Bilaspur
-          </td>
-          <td>
-            1489464965494
-          </td>
-        </tr>
-      </tbody>
-      <tbody>
-        <tr>
-          <td>
-            Deepesh
-          </td>
-          <td>
-            Bilaspur
-          </td>
-          <td>
-            5545415845454
-          </td>
-        </tr>
-      </tbody>
-    </table>
-
-**Explanation Of Tags**
-
-* ```<table></table>``` - The ```<table>``` represents tabular data — that is, information presented in a two-dimensional 
-table comprised of rows and columns of cells containing data.
-* ```<thead></thead>``` - The <thead> defines a set of rows defining the head of the columns of the table.
-* ```<tbody></tbody>``` - The HTML Table Body element (<tbody>) encapsulates a set of table row (<tr> elements), 
-indicating that they comprise the body of the table (<table>).
-* ```<tr></tr>``` - The ```<tr>``` defines a row of cells in a table. The row's cells can then be established using a mix of ```<td>``` (data cell) and ```<th>``` (header cell) elements.
-
-##### HTML form element
-
-      <form action="" method="get" class="form-example">
-        <div class="form-example">
-          <label for="name">Enter your name: </label>
-          <input type="text" name="name" id="name" required>
+For Button Documentation, Visit - https://getbootstrap.com/docs/4.5/components/jumbotron/
+
+![](https://github.com/abhishekapk/Front-End-Hackathon-Resources/blob/master/Third%20Session/Assests/jumpo.JPG)
+```
+<div class="jumbotron">
+  <h1 class="display-4">Hello, world!</h1>
+  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <hr class="my-4">
+  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+</div>
+```
+
+### Boostrap Navbar !
+
+Documentation and examples for Bootstrap’s powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.
+
+#### How it works?
+Here’s what you need to know before getting started with the navbar:
+* Navbars require a wrapping ```.navbar``` with ```.navbar-expand{-sm|-md|-lg|-xl}``` for responsive collapsing and color scheme classes.
+* Navbars and their contents are fluid by default. Use optional containers to limit their horizontal width.
+* Use our spacing and flex utility classes for controlling spacing and alignment within navbars.
+* Navbars are responsive by default, but you can easily modify them to change that. Responsive behavior depends on our Collapse JavaScript plugin.
+* Navbars are hidden by default when printing. Force them to be printed by adding .d-print to the .navbar. See the display utility class.
+* Ensure accessibility by using a ```<nav>``` element or, if using a more generic element such as a ```<div>```, add a ```role="navigation"``` to every navbar to explicitly identify it as a landmark region for users of assistive technologies.
+
+![](https://github.com/abhishekapk/Front-End-Hackathon-Resources/blob/master/Third%20Session/Assests/navbar.JPG)
+
+```
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Navbar</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
         </div>
-        <div class="form-example">
-          <label for="email">Enter your email: </label>
-          <input type="email" name="email" id="email" required>
-        </div>
-        <div class="form-example">
-          <input type="submit" value="Follow Me">
-        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
+</nav>
+```
+
+For documentation of Navbar, Visit - https://getbootstrap.com/docs/4.5/components/navbar/
+
+### Bootstrap Grid System - 
+* The Bootstrap grid is a table containing rows and columns sustaining the capability to utilize a 12-column grid that is responsive.
+* Grid column elements are placed inside row elements, which create horizontal groups of columns. You can have as many rows as you want on the page, but columns must be immediate children of rows. In a full row, the column widths will be any combination that adds up to 12, but it is not mandatory to use all 12 available columns.
+* The columns will re-arrange automatically depending on the screen size.
+* It uses a series of containers, rows, and columns to layout and align content.
 
 
-**Explanation Of Tags**
+*Boostrap Grid System Documentation, Visit -* https://getbootstrap.com/docs/4.5/layout/grid/
 
-* **action** - The URI of a program that processes the form information. This value can be overridden by a formaction attribute on a ```<button>``` or ```<input>``` element.
-* **name** - The name of the form
-* **target** - A name or keyword indicating where to display the response that is received after submitting the form. In HTML 4, this is the name/keyword for a frame. In HTML5, it is a name/keyword for a browsing context (for example, tab, window, or inline frame). The following keywords have special meanings:
-   * **_self**: Load the response into the same HTML 4 frame (or HTML5 browsing context) as the current one. This value is the default if the attribute is not specified.
-   * **_blank**: Load the response into a new unnamed HTML 4 window or HTML5 browsing context.
-   * **_parent**: Load the response into the HTML 4 frameset parent of the current frame, or HTML5 parent browsing context of the current one. If there is no parent, this option behaves the same way as ```_self```.
-   * **_top**: HTML 4: Load the response into the full original window, and cancel all other frames. HTML5: Load the response into the top-level browsing context (i.e., the browsing context that is an ancestor of the current one, and has no parent). If there is no parent, this option behaves the same way as ```_self```.
-   * **iframename**: The response is displayed in a named ```<iframe>```.
-* **method** - The HTTP method that the browser uses to submit the form. Possible values are:
-   * **post**: Corresponds to the HTTP POST method ; form data are included in the body of the form and sent to the server.
-   * **get**: Corresponds to the HTTP GET method; form data are appended to the action attribute URI with a ```?``` as separator, and the resulting URI is sent to the server. Use this method when the form has no side-effects and contains only ASCII characters.
-This value can be overridden by a formmethod attribute on a ```<button>``` or ```<input>``` element.
+See how aspects of the Bootstrap grid system work across multiple devices with a handy table.<br>
+![](https://github.com/abhishekapk/Front-End-Hackathon-Resources/blob/master/Third%20Session/Assests/grid.JPG)
 
-For more details on HTML forms, please visit - [HTML Design Forms](https://www.geeksforgeeks.org/html-design-form/)
+Example - 
+
+```
+<div class="container">
+  <div class="row">
+    <div class="col">
+      1 of 2
+    </div>
+    <div class="col">
+      2 of 2
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      1 of 3
+    </div>
+    <div class="col">
+      2 of 3
+    </div>
+    <div class="col">
+      3 of 3
+    </div>
+  </div>
+</div>
+```
+![](https://github.com/abhishekapk/Front-End-Hackathon-Resources/blob/master/Third%20Session/Assests/column.JPG)
+
+```
+<div class="container">
+  <div class="row">
+    <div class="col">col</div>
+    <div class="col">col</div>
+    <div class="col">col</div>
+    <div class="col">col</div>
+  </div>
+  <div class="row">
+    <div class="col-8">col-8</div>
+    <div class="col-4">col-4</div>
+  </div>
+</div>
+```
+![](https://github.com/abhishekapk/Front-End-Hackathon-Resources/blob/master/Third%20Session/Assests/column1.JPG)
+
+
+For more details on Bootsrap, please visit - [Bootstrap Documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 #### References
 
-* [DevDocs](https://devdocs.io/)
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-* [W3 Schools](https://www.w3schools.com/)
+* [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+* [W3 Schools](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp)
 
 #### Contributors 
 
-* [Shalu Kumari](https://www.linkedin.com/in/shalu-kumari-42ab8019b/)
-* [Prashashti Pankaj](https://www.linkedin.com/in/prashasti-pankaj-8875a8171/)
-* [Abhijit Tripathy](https://www.linkedin.com/in/abhijit-tripathy-415912187/) <a href="https://github.com/Abhijit2505"><img src = "https://img.shields.io/badge/Follow-4183C4?logo=github&style=social"></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [Manyata](https://www.linkedin.com/in/manyata-hy-1jin/)
+* [Srishti Gauraha](https://www.linkedin.com/in/srishti-gauraha-a2a8851a1/)
+* [Smriti Halder](https://www.linkedin.com/in/srishti-gauraha-a2a8851a1/)
+* [Abhishek Kumar Gupta](https://www.linkedin.com/in/abhishekapk) <a href="https://github.com/abhishekapk"><img src = "https://img.shields.io/badge/Follow-4183C4?logo=github&style=social"></a>

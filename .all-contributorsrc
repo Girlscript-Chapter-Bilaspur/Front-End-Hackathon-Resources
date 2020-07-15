@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "abhishekapk",
+      "name": "Abhishek Kumar Gupta",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/64025312?v=4",
+      "profile": "https://www.linkedin.com/in/abhishekapk/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Front-End-Hackathon-Resources",
+  "projectOwner": "Girlscript-Chapter-Bilaspur",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

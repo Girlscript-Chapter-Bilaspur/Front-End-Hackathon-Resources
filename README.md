@@ -1,6 +1,6 @@
 ![](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/HACKATHON_banner2.png)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Heya Explorer 🕵️‍♀️ ! We strongly appreciate your **learning attitude** and your interest in making something awesome. 
@@ -106,6 +106,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.linkedin.com/in/abhishekapk/"><img src="https://avatars0.githubusercontent.com/u/64025312?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Kumar Gupta</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=abhishekapk" title="Documentation">📖</a></td>
     <td align="center"><a href="https://abhijit2505.github.io/portfolio/"><img src="https://avatars3.githubusercontent.com/u/52751963?v=4" width="100px;" alt=""/><br /><sub><b>Abhijit Tripathy</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=Abhijit2505" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/akrishna0"><img src="https://avatars0.githubusercontent.com/u/46137464?v=4" width="100px;" alt=""/><br /><sub><b>Akash Krishna</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=akrishna0" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ajayshukla19/"><img src="https://avatars0.githubusercontent.com/u/61351885?v=4" width="100px;" alt=""/><br /><sub><b>Ajay Kumar Shukla</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=Unknownone-af" title="Documentation">📖</a></td>
   </tr>
 </table>
 

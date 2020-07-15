@@ -1,5 +1,5 @@
-# About The Session - "Bootstrap Framework"
-<img src="https://img.shields.io/badge/Bootstrap-Code-orange"> <img src="https://img.shields.io/badge/Bootstrap-Documentation-brightgreen"> <img src="https://img.shields.io/badge/License-MIT-red">
+# About The Session - "JavaScript"
+<img src="https://img.shields.io/badge/JavaScript-Code-orange"> <img src="https://img.shields.io/badge/JavaScript-Documentation-brightgreen"> <img src="https://img.shields.io/badge/License-MIT-red">
 
 This session revolves around the basics of Javascript, javascript engine, Javascripts Intro - (Functions, Array, Why we use JavaScript, loop, conditional statements, etc).
 We will be giving a brief overview of how structuring of webpage is done using JavaScript.

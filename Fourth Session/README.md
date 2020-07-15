@@ -118,7 +118,7 @@ Developers can use JavaScript to fetch data from other sources and display it on
 
 According to Stack Overflow, a popular website used by developers to share their skills, JavaScript is used by 69.8%.
  
-![](https://github.com/akrishna0/Front-End-Hackathon-Resources/blob/master/Fourth%20Session/Assests/js.JPG)
+![](https://github.com/akrishna0/Front-End-Hackathon-Resources/blob/master/Fourth%20Session/Assests/js.jpg)
 
 
 It is often remarked as a beginners’ language as it is quite easy to learn and execute. This makes it the best friend with developers! As a business person, you don’t have to go with what developers prefer.We want you to judge whether it’s really the optimum language for your custom software development project. One way to get a crystal clear image of the reality is an analysis of languages used for websites. Let’s check the insights!

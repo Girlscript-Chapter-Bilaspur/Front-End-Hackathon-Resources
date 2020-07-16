@@ -1,0 +1,51 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "abhishekapk",
+      "name": "Abhishek Kumar Gupta",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/64025312?v=4",
+      "profile": "https://www.linkedin.com/in/abhishekapk/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Abhijit2505",
+      "name": "Abhijit Tripathy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/52751963?v=4",
+      "profile": "https://abhijit2505.github.io/portfolio/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "akrishna0",
+      "name": "Akash Krishna",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/46137464?v=4",
+      "profile": "https://github.com/akrishna0",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Unknownone-af",
+      "name": "Ajay Kumar Shukla",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/61351885?v=4",
+      "profile": "https://www.linkedin.com/in/ajayshukla19/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Front-End-Hackathon-Resources",
+  "projectOwner": "Girlscript-Chapter-Bilaspur",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

@@ -34,7 +34,7 @@ are going to help you out with your queries.
 
 *Ans* - You need to maintain two repositiories,
 
-  * Forked repository of GIRLSCRIPT bilaspur, where you need to upload the code and related documentations only. No need of any hosting in this repo.
+  * Forked repository of GIRLSCRIPT Bilaspur, where you need to upload the code and related documentations only. No need of any hosting in this repo.
   * Own repository of the name in the format ```Frontend_<theme name>_<codename>```, this will be used for hosting your site.
   
 #### How to get the problem statements ?

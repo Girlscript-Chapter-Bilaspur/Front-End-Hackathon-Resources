@@ -30,7 +30,7 @@ a video documentation.
 *Ans* - You need to make your website yourself, you should write your own code and upload the same on GITHUB platform. Other than that for the technical issues we have mentors who
 are going to help you out with your queries.
 
-#### How to upload the project in GITHUB
+#### How to upload the project in GITHUB ?
 
 *Ans* - You need to maintain two repositiories,
 

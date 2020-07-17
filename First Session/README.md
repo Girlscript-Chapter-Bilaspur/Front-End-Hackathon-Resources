@@ -80,11 +80,13 @@ All other elements must be descendants of this element.
 
 **Example**
 
-    <!DOCTYPE html>
-    <html lang="en">
-      <head>...</head>
-      <body>...</body>
-    </html>
+ ```html
+<!DOCTYPE html>
+ <html lang="en">
+   <head>...</head>
+   <body>...</body>
+ </html>
+```
     
 Providing a **lang** attribute with a valid IETF identifying language tag on the html element will help 
 screen reading technology determine the proper language to announce. The identifying language tag should describe 
@@ -100,11 +102,13 @@ The ```<head>``` provides general information (metadata) about the document, inc
 
 **Example**
 
-    <html>
-      <head>
-        <title>Document title</title>
-      </head>
-    </html>
+  ```html
+<html>
+   <head>
+     <title>Document title</title>
+   </head>
+ </html>
+```
 
 The HTML Title element ```<title>``` defines the document's title that is shown in a browser's title bar or a page's tab. 
 It only contains text and tags within the element are ignored.
@@ -115,14 +119,16 @@ The ```<body>``` represents the content of an HTML document. There can be only o
 
 **Example**
 
-    <html>
-      <head>
-        <title>Document title</title>
-      </head>
-      <body>
-        <p>This is a paragraph</p>
-      </body>
-    </html>
+  ```html
+<html>
+   <head>
+     <title>Document title</title>
+   </head>
+   <body>
+     <p>This is a paragraph</p>
+   </body>
+ </html>
+```
 
 #### heading
 
@@ -130,12 +136,14 @@ This one is used to create headings with six different tags ranging from **h1** 
 
 **Example**
 
-    <h1>Heading level 1</h1>
-    <h2>Heading level 2</h2>
-    <h3>Heading level 3</h3>
-    <h4>Heading level 4</h4>
-    <h5>Heading level 5</h5>
-    <h6>Heading level 6</h6>
+ ```html
+ <h1>Heading level 1</h1>
+ <h2>Heading level 2</h2>
+ <h3>Heading level 3</h3>
+ <h4>Heading level 4</h4>
+ <h5>Heading level 5</h5>
+ <h6>Heading level 6</h6>
+```
 
 <h1>Heading level 1</h1>
 <h2>Heading level 2</h2>
@@ -151,14 +159,16 @@ lines and/or first-line indentation, but HTML paragraphs can be any structural g
 
 **Example**
 
-    <p>This is the first paragraph of text.
-      This is the first paragraph of text.
-      This is the first paragraph of text.
-      This is the first paragraph of text.</p>
-    <p>This is the second paragraph.
-      This is the second paragraph.
-      This is the second paragraph.
-      This is the second paragraph.</p>
+ ```html
+<p>This is the first paragraph of text.
+   This is the first paragraph of text.
+   This is the first paragraph of text.
+   This is the first paragraph of text.</p>
+ <p>This is the second paragraph.
+   This is the second paragraph.
+   This is the second paragraph.
+   This is the second paragraph.</p>
+```
 
 #### br
 
@@ -166,10 +176,12 @@ The ```<br>``` produces a line break in text (carriage-return). It is useful for
 
 **Example**
 
-    GirlScript Bilaspur<br>
-    Bilaspur,Chhattisgarh<br>
-    123456<br>
-    India<br>
+ ```html
+GirlScript Bilaspur<br>
+ Bilaspur,Chhattisgarh<br>
+ 123456<br>
+ India<br>
+```
 
 GirlScript Bilaspur<br>
 Bilaspur,Chhattisgarh<br>
@@ -182,9 +194,11 @@ The ```<a>``` (or anchor element) creates a hyperlink to other web pages, files,
 
 **Example**
 
-    <a href="https://girlscript-chapter-bilaspur.github.io/Forntend-Hackathon/">
-    External Link
-    </a>   
+ ```html
+<a href="https://girlscript-chapter-bilaspur.github.io/Forntend-Hackathon/">
+ External Link
+ </a>   
+```
 
 <a href="https://girlscript-chapter-bilaspur.github.io/Forntend-Hackathon/">
 External Link
@@ -212,7 +226,9 @@ The ```<img>``` embeds an image into the document. It is a replaced element.
 
 **Example**
 
-    <img src="book_photo.png" alt="A Book Photo">
+ ```html
+<img src="book_photo.png" alt="A Book Photo">
+```
 
 ##### Common Attributes - 
 
@@ -244,11 +260,13 @@ The ```<ul>``` represents an unordered list of items, typically rendered as a bu
 
 **Example**
 
-      <ul>
-        <li>first item</li>
-        <li>second item</li>
-        <li>third item</li>
-      </ul>
+```html
+<ul>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
+</ul>
+```
 
 <ul>
         <li>first item</li>
@@ -261,11 +279,13 @@ The ```<ol>``` represents an ordered list of items, typically rendered as a numb
 
 **Example**
 
-    <ol>
-      <li>first item</li>
-      <li>second item</li>
-      <li>third item</li>
-    </ol>
+ ```html
+<ol>
+   <li>first item</li>
+   <li>second item</li>
+   <li>third item</li>
+ </ol>
+```
 
 <ol>
   <li>first item</li>
@@ -291,87 +311,88 @@ The ```<ol>``` represents an ordered list of items, typically rendered as a numb
 
 **Example**
 
-      <table border='1'>
-            <thead>
-              <tr>
-                <td>
-                  <em><b>Name</b></em>
-                </td>
-                <td>
-                  <em><b>Place</b></em>
-                </td>
-                <td>
-                  <em><b>Mobile Number</b></em>
-                </td>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>
-                  Abhijit
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  1234567891484
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Ruhi
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  9856224744714
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Abhishek
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  1484548145141
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Ajay
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  1489464965494
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Deepesh
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  5545415845454
-                </td>
-              </tr>
-            </tbody>
-          </table>
-
+   ```html
+<table border='1'>
+         <thead>
+           <tr>
+             <td>
+               <em><b>Name</b></em>
+             </td>
+             <td>
+               <em><b>Place</b></em>
+             </td>
+             <td>
+               <em><b>Mobile Number</b></em>
+             </td>
+           </tr>
+         </thead>
+         <tbody>
+           <tr>
+             <td>
+               Abhijit
+             </td>
+             <td>
+               Bilaspur
+             </td>
+             <td>
+               1234567891484
+             </td>
+           </tr>
+         </tbody>
+         <tbody>
+           <tr>
+             <td>
+               Ruhi
+             </td>
+             <td>
+               Bilaspur
+             </td>
+             <td>
+               9856224744714
+             </td>
+           </tr>
+         </tbody>
+         <tbody>
+           <tr>
+             <td>
+               Abhishek
+             </td>
+             <td>
+               Bilaspur
+             </td>
+             <td>
+               1484548145141
+             </td>
+           </tr>
+         </tbody>
+         <tbody>
+           <tr>
+             <td>
+               Ajay
+             </td>
+             <td>
+               Bilaspur
+             </td>
+             <td>
+               1489464965494
+             </td>
+           </tr>
+         </tbody>
+         <tbody>
+           <tr>
+             <td>
+               Deepesh
+             </td>
+             <td>
+               Bilaspur
+             </td>
+             <td>
+               5545415845454
+             </td>
+           </tr>
+         </tbody>
+       </table>
+```
 
 <table border='1'>
       <thead>
@@ -452,32 +473,34 @@ The ```<ol>``` represents an ordered list of items, typically rendered as a numb
           </td>
         </tr>
       </tbody>
-    </table>
+</table>
 
 **Explanation Of Tags**
 
 * ```<table></table>``` - The ```<table>``` represents tabular data — that is, information presented in a two-dimensional 
 table comprised of rows and columns of cells containing data.
-* ```<thead></thead>``` - The <thead> defines a set of rows defining the head of the columns of the table.
-* ```<tbody></tbody>``` - The HTML Table Body element (<tbody>) encapsulates a set of table row (<tr> elements), 
-indicating that they comprise the body of the table (<table>).
+* ```<thead></thead>``` - The ```<thead>``` defines a set of rows defining the head of the columns of the table.
+* ```<tbody></tbody>``` - The HTML Table Body element ```<tbody>``` encapsulates a set of table row ```<tr>``` elements, 
+indicating that they comprise the body of the table ```<table>```.
 * ```<tr></tr>``` - The ```<tr>``` defines a row of cells in a table. The row's cells can then be established using a mix of ```<td>``` (data cell) and ```<th>``` (header cell) elements.
 
 ##### HTML form element
 
-      <form action="" method="get" class="form-example">
-        <div class="form-example">
-          <label for="name">Enter your name: </label>
-          <input type="text" name="name" id="name" required>
-        </div>
-        <div class="form-example">
-          <label for="email">Enter your email: </label>
-          <input type="email" name="email" id="email" required>
-        </div>
-        <div class="form-example">
-          <input type="submit" value="Follow Me">
-        </div>
 
+```html
+<form action="" method="get" class="form-example">
+<div class="form-example">
+ <label for="name">Enter your name: </label>
+ <input type="text" name="name" id="name" required>
+</div>
+<div class="form-example">
+ <label for="email">Enter your email: </label>
+ <input type="email" name="email" id="email" required>
+</div>
+<div class="form-example">
+ <input type="submit" value="Follow Me">
+</div>
+   ```
 
 **Explanation Of Tags**
 

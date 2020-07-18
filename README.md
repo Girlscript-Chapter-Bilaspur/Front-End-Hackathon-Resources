@@ -1,6 +1,6 @@
 ![](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/HACKATHON_banner2.png)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Heya Explorer 🕵️‍♀️ ! We strongly appreciate your **learning attitude** and your interest in making something awesome. 

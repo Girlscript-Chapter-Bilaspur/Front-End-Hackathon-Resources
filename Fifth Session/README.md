@@ -21,7 +21,7 @@ This is the **Cheat Sheet and reference** opened for everyone to use during the 
 
 ## Content
 
-You can find the slides here - <a href = "https://www.canva.com/design/DAEBs5MWTKc/SUQiJelFrMfPSLCoi8WbMg/view?utm_content=DAEBs5MWTKc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Slides (Click Here For Presentation Slides !</a>
+You can find the slides here - <a href = "https://www.canva.com/design/DAEBs5MWTKc/SUQiJelFrMfPSLCoi8WbMg/view?utm_content=DAEBs5MWTKc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Slides (Click Here For Presentation Slides)</a>
 
 ### Presentation Slides Contain these topics - 
 

@@ -1,4 +1,6 @@
-# About The Session -  Basic of Git and Github
+# About The Session - Basics of Git and Github
+
+
 <img src="https://img.shields.io/badge/Git and Github-Code-orange"> <img src="https://img.shields.io/badge/Git and Github-Documentation-brightgreen"> <img src="https://img.shields.io/badge/License-MIT-red">
 
 This session revolves around the basics of Open Source, Closed source, version control, git and github.
@@ -20,7 +22,7 @@ This is the **Cheat Sheet and reference** opened for everyone to use during the 
 
 ## Content
 
-You can find the slides here - <a href = "https://www.canva.com/design/DAEBs5MWTKc/SUQiJelFrMfPSLCoi8WbMg/view?utm_content=DAEBs5MWTKc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Slides (Click Here For Presentation Slides !</a>
+You can find the slides here - <a href = "https://www.canva.com/design/DAEBs5MWTKc/SUQiJelFrMfPSLCoi8WbMg/view?utm_content=DAEBs5MWTKc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Slides (Click Here For Presentation Slides)</a>
 
 ### Presentation Slides Contain these topics - 
 
@@ -33,7 +35,7 @@ You can find the slides here - <a href = "https://www.canva.com/design/DAEBs5MWT
 
 ### What is Git? - 
 
-Git is officially defined as a *distributed version control system* (VCS). Git is a version control system created by Linus Torvalds. The same developer who started the Linux Kernal.Git is free open source system available for installation on Unix based plateformes, Windows & Macos.
+Git is officially defined as a *distributed version control system* (VCS).
 
 In other words, it's a system that tracks changes to our project files over time. It enables us to record project changes and go back to a specific version of the tracked files, at any given point in time.  This system can be used by many people to efficiently work together and **collaborate on team projects**, where each developer can have their own version of the project, distributed on their computer. Later on, these individual versions of the project can be merged and adapted into the main version of the project.
 
@@ -86,22 +88,4 @@ For GITHUB Documentation, visit here - https://www.notion.so/Introduction-to-Git
 * [Yuvraj Singh](https://www.linkedin.com/in/yuvraj-singh-1889831a1/)
 * [Ruhi Awasthi](https://www.linkedin.com/in/ruhi-awasthi-5101b81a5/)<a href="https://github.com/ruhiawasthi"><img src = "https://img.shields.io/badge/Follow-4183C4?logo=github&style=social"></a>
 * [Deepesh Garg](https://www.linkedin.com/in/deepeshgarg09/) <a href="https://github.com/deepeshgarg09"><img src = "https://img.shields.io/badge/Follow-4183C4?logo=github&style=social"></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

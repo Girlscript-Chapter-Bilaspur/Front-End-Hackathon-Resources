@@ -1,6 +1,6 @@
 ![](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/HACKATHON_banner2.png)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Heya Explorer 🕵️‍♀️ ! We strongly appreciate your **learning attitude** and your interest in making something awesome. 
@@ -101,5 +101,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://abhijit2505.github.io/portfolio/"><img src="https://avatars3.githubusercontent.com/u/52751963?v=4" width="100px;" alt=""/><br /><sub><b>Abhijit Tripathy</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=Abhijit2505" title="Documentation">📖🤓👑</a></td>
     <td align="center"><a href="https://github.com/akrishna0"><img src="https://avatars0.githubusercontent.com/u/46137464?v=4" width="100px;" alt=""/><br /><sub><b>Akash Krishna</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=akrishna0" title="Documentation">📖🥇🖥</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/ajayshukla19/"><img src="https://avatars0.githubusercontent.com/u/61351885?v=4" width="100px;" alt=""/><br /><sub><b>Ajay Kumar Shukla</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=Unknownone-af" title="Documentation">📖💻</a></td>
+     <td align="center"><a href="https://www.linkedin.com/in/ruhi-awasthi-5101b81a5"><img src="https://avatars3.githubusercontent.com/u/59197808?v=4" width="100px;" alt=""/><br /><sub><b>Ruhi Awasthi</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=ruhiawasthi" title="Documentation">📖💻👑</a></td>
+     <td align="center"><a href="https://www.linkedin.com/in/deepeshgarg09"><img src="https://avatars1.githubusercontent.com/u/63818498?v=4" width="100px;" alt=""/><br /><sub><b>Deepesh Garg</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=deepeshgarg09" title="Documentation">📖💻</a></td>
   </tr>
 </table>

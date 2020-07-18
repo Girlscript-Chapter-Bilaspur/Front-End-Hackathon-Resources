@@ -1,5 +1,6 @@
 # About The Session - Basics of Git and Github
 
+
 <img src="https://img.shields.io/badge/Git and Github-Code-orange"> <img src="https://img.shields.io/badge/Git and Github-Documentation-brightgreen"> <img src="https://img.shields.io/badge/License-MIT-red">
 
 This session revolves around the basics of Open Source, Closed source, version control, git and github.

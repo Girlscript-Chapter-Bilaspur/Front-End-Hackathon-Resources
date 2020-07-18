@@ -1,5 +1,7 @@
 ![](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/HACKATHON_banner2.png)
-
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Heya Explorer 🕵️‍♀️ ! We strongly appreciate your **learning attitude** and your interest in making something awesome. 
 
@@ -19,9 +21,6 @@ This Hackathon is going to be out of the ordinary, even beginners can join to en
 We will be using GITHUB repository as a hackathon conducting platform, where a participant has to maintain a private directory and make a 
 Pull Request(PR) to the master repository. The PR will have a basic template which will be provided on the fifth day of the Hackathon in the second session.
 
-> 🎖 **Certificate of Particiaption**  for the workshop will be awarded to everyone who are going to complete the tasks given in the workshop. 
-🥇 **Certificate of Appreciation**  will be awarded to them who will attend atleast six sessions and merge one PR. Winners will get 
-**Winner Certificate** as well as **Goodies** from Girlscript Founcation.
 
 Have a visit to our website here to know about the schdule of the sessions. Schedule is given in IST(Indian Standard Time), All the international participants are hereby notified.
 
@@ -92,5 +91,15 @@ you will be given **evaluation twice**, each checkpoints of **six hours** each.
 <img src="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/GS%20Cup%20Logo.png" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/yay%20logo1.png" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/blob/master/Hackathon%20Images/BILASPUR%20LOGO.png" height="100px">
 
 
+## Contributors ✨
 
+Thanks goes to these wonderful people:
 
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/abhishekapk/"><img src="https://avatars0.githubusercontent.com/u/64025312?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Kumar Gupta</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=abhishekapk" title="Documentation">📖💻</a></td>
+    <td align="center"><a href="https://abhijit2505.github.io/portfolio/"><img src="https://avatars3.githubusercontent.com/u/52751963?v=4" width="100px;" alt=""/><br /><sub><b>Abhijit Tripathy</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=Abhijit2505" title="Documentation">📖🤓👑</a></td>
+    <td align="center"><a href="https://github.com/akrishna0"><img src="https://avatars0.githubusercontent.com/u/46137464?v=4" width="100px;" alt=""/><br /><sub><b>Akash Krishna</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=akrishna0" title="Documentation">📖🥇🖥</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ajayshukla19/"><img src="https://avatars0.githubusercontent.com/u/61351885?v=4" width="100px;" alt=""/><br /><sub><b>Ajay Kumar Shukla</b></sub></a><br /><a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/commits?author=Unknownone-af" title="Documentation">📖💻</a></td>
+  </tr>
+</table>

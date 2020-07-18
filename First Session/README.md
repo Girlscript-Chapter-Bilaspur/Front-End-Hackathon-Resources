@@ -1,4 +1,5 @@
 # About The Session - "Web Development Basics and HTML"
+<img src="https://img.shields.io/badge/HTML-Code-orange"> <img src="https://img.shields.io/badge/HTML-Documentation-brightgreen"> <img src="https://img.shields.io/badge/License-MIT-red">
 
 This session revolves around the basics of web, ranging from what browser,server,internet are. 
 We will be giving a brief overview of how structuring of webpage is done using HTML.
@@ -7,27 +8,39 @@ We will be giving a brief overview of how structuring of webpage is done using H
 
 This is the **Cheat Sheet** opened for everyone to use during the hackathon. There are resources and tools embeded inside which you can use as a participant.
 
+## Softwares And Installations
+
+You can install any of these Editors,
+* [Sublime Text](https://www.sublimetext.com/) <img src="https://img.shields.io/badge/Editor-Sublime-yellow">
+* [Atom](https://atom.io/) [Preferable, will be using in the session] <img src = https://img.shields.io/badge/Editor-Atom-green>
+* NotePad - May Be present in your system already
+* One [GitHub](https://github.com/) account
+* Any of the browsers - Like Chrome, Safari,Opera etc.
+
 ## Content
+
+You can find the slides here - <a href = "https://www.canva.com/design/DAEBAah68is/share/preview?token=d58aB02L1p3sE-Aidi1LBQ&role=EDITOR&utm_content=DAEBAah68is&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Slides</a>
+
 * [How Does The Internet Work](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#how-does-the-internet-work-)
 * [What is HTML](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#what-is-html-)
 * <details><summary><a href="https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#tags-and-elements-cheatsheet">Tags and Elements Cheatsheet</a></summary>
    
-    * [comments](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#comments)
-    * [html](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#html)
-    * [head](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#head)
-    * [body](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#body)
-    * [heading](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#heading)
-    * [paragraph](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#paragraph)
-    * [br](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#br)
-    * [anchor](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#anchor)
-    * [img](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#img)
-    * [list](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#list)
-    * [Text Formatting](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/blob/master/First%20Session/DOC.md#text-formatting)</details> 
+    * [comments](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#comments)
+    * [html](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#html)
+    * [head](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#head)
+    * [body](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#body)
+    * [heading](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#heading)
+    * [paragraph](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#paragraph)
+    * [br](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#br)
+    * [anchor](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#anchor)
+    * [img](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#img)
+    * [list](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#list)
+    * [Text Formatting](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#text-formatting)</details> 
     
    * <details><summary><a href="https://github.com/Abhijit2505/Front-End-Hackathon-Resources/tree/master/First%20Session#some-intermediate-stuffs">Some Intermediate Stuffs</a></summary>
    
    
-      * [Making HTML Table Element](https://github.com/Abhijit2505/Front-End-Hackathon-Resources/tree/master/First%20Session#making-html-table-element)</details>
+      * [Making HTML Table Element](https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources/tree/master/First%20Session#making-html-table-element)</details>
 
 
 
@@ -67,11 +80,13 @@ All other elements must be descendants of this element.
 
 **Example**
 
-    <!DOCTYPE html>
-    <html lang="en">
-      <head>...</head>
-      <body>...</body>
-    </html>
+ ```html
+<!DOCTYPE html>
+ <html lang="en">
+   <head>...</head>
+   <body>...</body>
+ </html>
+```
     
 Providing a **lang** attribute with a valid IETF identifying language tag on the html element will help 
 screen reading technology determine the proper language to announce. The identifying language tag should describe 
@@ -87,11 +102,13 @@ The ```<head>``` provides general information (metadata) about the document, inc
 
 **Example**
 
-    <html>
-      <head>
-        <title>Document title</title>
-      </head>
-    </html>
+  ```html
+<html>
+   <head>
+     <title>Document title</title>
+   </head>
+ </html>
+```
 
 The HTML Title element ```<title>``` defines the document's title that is shown in a browser's title bar or a page's tab. 
 It only contains text and tags within the element are ignored.
@@ -102,14 +119,16 @@ The ```<body>``` represents the content of an HTML document. There can be only o
 
 **Example**
 
-    <html>
-      <head>
-        <title>Document title</title>
-      </head>
-      <body>
-        <p>This is a paragraph</p>
-      </body>
-    </html>
+  ```html
+<html>
+   <head>
+     <title>Document title</title>
+   </head>
+   <body>
+     <p>This is a paragraph</p>
+   </body>
+ </html>
+```
 
 #### heading
 
@@ -117,12 +136,14 @@ This one is used to create headings with six different tags ranging from **h1** 
 
 **Example**
 
-    <h1>Heading level 1</h1>
-    <h2>Heading level 2</h2>
-    <h3>Heading level 3</h3>
-    <h4>Heading level 4</h4>
-    <h5>Heading level 5</h5>
-    <h6>Heading level 6</h6>
+ ```html
+ <h1>Heading level 1</h1>
+ <h2>Heading level 2</h2>
+ <h3>Heading level 3</h3>
+ <h4>Heading level 4</h4>
+ <h5>Heading level 5</h5>
+ <h6>Heading level 6</h6>
+```
 
 <h1>Heading level 1</h1>
 <h2>Heading level 2</h2>
@@ -138,14 +159,16 @@ lines and/or first-line indentation, but HTML paragraphs can be any structural g
 
 **Example**
 
-    <p>This is the first paragraph of text.
-      This is the first paragraph of text.
-      This is the first paragraph of text.
-      This is the first paragraph of text.</p>
-    <p>This is the second paragraph.
-      This is the second paragraph.
-      This is the second paragraph.
-      This is the second paragraph.</p>
+ ```html
+<p>This is the first paragraph of text.
+   This is the first paragraph of text.
+   This is the first paragraph of text.
+   This is the first paragraph of text.</p>
+ <p>This is the second paragraph.
+   This is the second paragraph.
+   This is the second paragraph.
+   This is the second paragraph.</p>
+```
 
 #### br
 
@@ -153,10 +176,12 @@ The ```<br>``` produces a line break in text (carriage-return). It is useful for
 
 **Example**
 
-    GirlScript Bilaspur<br>
-    Bilaspur,Chhattisgarh<br>
-    123456<br>
-    India<br>
+ ```html
+GirlScript Bilaspur<br>
+ Bilaspur,Chhattisgarh<br>
+ 123456<br>
+ India<br>
+```
 
 GirlScript Bilaspur<br>
 Bilaspur,Chhattisgarh<br>
@@ -169,9 +194,11 @@ The ```<a>``` (or anchor element) creates a hyperlink to other web pages, files,
 
 **Example**
 
-    <a href="https://girlscript-chapter-bilaspur.github.io/Forntend-Hackathon/">
-    External Link
-    </a>   
+ ```html
+<a href="https://girlscript-chapter-bilaspur.github.io/Forntend-Hackathon/">
+ External Link
+ </a>   
+```
 
 <a href="https://girlscript-chapter-bilaspur.github.io/Forntend-Hackathon/">
 External Link
@@ -199,7 +226,9 @@ The ```<img>``` embeds an image into the document. It is a replaced element.
 
 **Example**
 
-    <img src="book_photo.png" alt="A Book Photo">
+ ```html
+<img src="book_photo.png" alt="A Book Photo">
+```
 
 ##### Common Attributes - 
 
@@ -231,11 +260,13 @@ The ```<ul>``` represents an unordered list of items, typically rendered as a bu
 
 **Example**
 
-      <ul>
-        <li>first item</li>
-        <li>second item</li>
-        <li>third item</li>
-      </ul>
+```html
+<ul>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
+</ul>
+```
 
 <ul>
         <li>first item</li>
@@ -248,11 +279,13 @@ The ```<ol>``` represents an ordered list of items, typically rendered as a numb
 
 **Example**
 
-    <ol>
-      <li>first item</li>
-      <li>second item</li>
-      <li>third item</li>
-    </ol>
+ ```html
+<ol>
+   <li>first item</li>
+   <li>second item</li>
+   <li>third item</li>
+ </ol>
+```
 
 <ol>
   <li>first item</li>
@@ -278,87 +311,88 @@ The ```<ol>``` represents an ordered list of items, typically rendered as a numb
 
 **Example**
 
-      <table border='1'>
-            <thead>
-              <tr>
-                <td>
-                  <em><b>Name</b></em>
-                </td>
-                <td>
-                  <em><b>Place</b></em>
-                </td>
-                <td>
-                  <em><b>Mobile Number</b></em>
-                </td>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>
-                  Abhijit
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  1234567891484
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Ruhi
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  9856224744714
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Abhishek
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  1484548145141
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Ajay
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  1489464965494
-                </td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr>
-                <td>
-                  Deepesh
-                </td>
-                <td>
-                  Bilaspur
-                </td>
-                <td>
-                  5545415845454
-                </td>
-              </tr>
-            </tbody>
-          </table>
-
+   ```html
+<table border='1'>
+         <thead>
+           <tr>
+             <td>
+               <em><b>Name</b></em>
+             </td>
+             <td>
+               <em><b>Place</b></em>
+             </td>
+             <td>
+               <em><b>Mobile Number</b></em>
+             </td>
+           </tr>
+         </thead>
+         <tbody>
+           <tr>
+             <td>
+               Abhijit
+             </td>
+             <td>
+               Bilaspur
+             </td>
+             <td>
+               1234567891484
+             </td>
+           </tr>
+         </tbody>
+         <tbody>
+           <tr>
+             <td>
+               Ruhi
+             </td>
+             <td>
+               Bilaspur
+             </td>
+             <td>
+               9856224744714
+             </td>
+           </tr>
+         </tbody>
+         <tbody>
+           <tr>
+             <td>
+               Abhishek
+             </td>
+             <td>
+               Bilaspur
+             </td>
+             <td>
+               1484548145141
+             </td>
+           </tr>
+         </tbody>
+         <tbody>
+           <tr>
+             <td>
+               Ajay
+             </td>
+             <td>
+               Bilaspur
+             </td>
+             <td>
+               1489464965494
+             </td>
+           </tr>
+         </tbody>
+         <tbody>
+           <tr>
+             <td>
+               Deepesh
+             </td>
+             <td>
+               Bilaspur
+             </td>
+             <td>
+               5545415845454
+             </td>
+           </tr>
+         </tbody>
+       </table>
+```
 
 <table border='1'>
       <thead>
@@ -439,24 +473,63 @@ The ```<ol>``` represents an ordered list of items, typically rendered as a numb
           </td>
         </tr>
       </tbody>
-    </table>
+</table>
 
 **Explanation Of Tags**
 
 * ```<table></table>``` - The ```<table>``` represents tabular data — that is, information presented in a two-dimensional 
 table comprised of rows and columns of cells containing data.
-* ```<thead></thead>``` - The <thead> defines a set of rows defining the head of the columns of the table.
-* ```<tbody></tbody>``` - The HTML Table Body element (<tbody>) encapsulates a set of table row (<tr> elements), 
-indicating that they comprise the body of the table (<table>).
+* ```<thead></thead>``` - The ```<thead>``` defines a set of rows defining the head of the columns of the table.
+* ```<tbody></tbody>``` - The HTML Table Body element ```<tbody>``` encapsulates a set of table row ```<tr>``` elements, 
+indicating that they comprise the body of the table ```<table>```.
 * ```<tr></tr>``` - The ```<tr>``` defines a row of cells in a table. The row's cells can then be established using a mix of ```<td>``` (data cell) and ```<th>``` (header cell) elements.
 
+##### HTML form element
 
 
+```html
+<form action="" method="get" class="form-example">
+<div class="form-example">
+ <label for="name">Enter your name: </label>
+ <input type="text" name="name" id="name" required>
+</div>
+<div class="form-example">
+ <label for="email">Enter your email: </label>
+ <input type="email" name="email" id="email" required>
+</div>
+<div class="form-example">
+ <input type="submit" value="Follow Me">
+</div>
+   ```
 
+**Explanation Of Tags**
 
+* **action** - The URI of a program that processes the form information. This value can be overridden by a formaction attribute on a ```<button>``` or ```<input>``` element.
+* **name** - The name of the form
+* **target** - A name or keyword indicating where to display the response that is received after submitting the form. In HTML 4, this is the name/keyword for a frame. In HTML5, it is a name/keyword for a browsing context (for example, tab, window, or inline frame). The following keywords have special meanings:
+   * **_self**: Load the response into the same HTML 4 frame (or HTML5 browsing context) as the current one. This value is the default if the attribute is not specified.
+   * **_blank**: Load the response into a new unnamed HTML 4 window or HTML5 browsing context.
+   * **_parent**: Load the response into the HTML 4 frameset parent of the current frame, or HTML5 parent browsing context of the current one. If there is no parent, this option behaves the same way as ```_self```.
+   * **_top**: HTML 4: Load the response into the full original window, and cancel all other frames. HTML5: Load the response into the top-level browsing context (i.e., the browsing context that is an ancestor of the current one, and has no parent). If there is no parent, this option behaves the same way as ```_self```.
+   * **iframename**: The response is displayed in a named ```<iframe>```.
+* **method** - The HTTP method that the browser uses to submit the form. Possible values are:
+   * **post**: Corresponds to the HTTP POST method ; form data are included in the body of the form and sent to the server.
+   * **get**: Corresponds to the HTTP GET method; form data are appended to the action attribute URI with a ```?``` as separator, and the resulting URI is sent to the server. Use this method when the form has no side-effects and contains only ASCII characters.
+This value can be overridden by a formmethod attribute on a ```<button>``` or ```<input>``` element.
 
+For more details on HTML forms, please visit - [HTML Design Forms](https://www.geeksforgeeks.org/html-design-form/)
 
+#### References
 
+* [DevDocs](https://devdocs.io/)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [W3 Schools](https://www.w3schools.com/)
+
+#### Contributors 
+
+* [Shalu Kumari](https://www.linkedin.com/in/shalu-kumari-42ab8019b/)
+* [Prashashti Pankaj](https://www.linkedin.com/in/prashasti-pankaj-8875a8171/)
+* [Abhijit Tripathy](https://www.linkedin.com/in/abhijit-tripathy-415912187/) <a href="https://github.com/Abhijit2505"><img src = "https://img.shields.io/badge/Follow-4183C4?logo=github&style=social"></a>
 
 
 
